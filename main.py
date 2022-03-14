@@ -33,8 +33,8 @@ def Cria_Mapa_Romenia():
 
 
 	#Cidades de partida e destino
-	Node_Inicio = Arad
-	Node_Fim = Iasi
+	Node_Inicio = Lugoj
+	Node_Fim = Bucareste
 
 	Nodes = [Bucareste, Vaslui, Eforie, Pitesti, Lugoj, Oradea, Hirsova, Zerind, Iasi, Giurgiu, Arad, Urzineci, Fagaras, Sibiu, Rimnicu_Vilcea, Craiova, Drobreta, Mehadia, Neamt, Timisoara]
 
